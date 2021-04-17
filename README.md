@@ -58,7 +58,7 @@ I thank Shuhan Tan for providing the data split txt files for Office-Home (RSUT)
    - Adaptation to other target domains **Product and Real World**, respectively
 
     ```python
-    python image_target.py --cls_par 0.3 --da uda --output_src ckps/source/ --output ckps/target/ --gpu_id 0 --dset office --s 1 --max_epoch 15 --topk_ent --scd_label --intra_dense --inter_sep
+    python image_target.py --cls_par 0.3 --da uda --output_src ckps/source/ --output ckps/target/ --gpu_id 0 --dset office-home-RSUT --s 1 --max_epoch 15 --topk_ent --scd_label --intra_dense --inter_sep
     ```
 
 2. ##### Training on the VisDA-C (RSUT) dataset
