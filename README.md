@@ -32,7 +32,7 @@ ISFDA
     ├── domainnet
     ├── office-home-RSUT
     ├── VisDA-RSUT-100
-  ├── VisDA-RSUT-50
+    ├── VisDA-RSUT-50
     └── VisDA-RSUT-10
 ```
 
