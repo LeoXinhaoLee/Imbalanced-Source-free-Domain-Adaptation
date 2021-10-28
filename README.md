@@ -176,3 +176,18 @@ We thank Shuhan Tan for providing the data split txt files for Office-Home (RSUT
    --intra_dense \
    --inter_seq
    ```
+
+### Citation
+
+------
+
+```
+@inproceedings{li2021imbalanced,
+  title={Imbalanced Source-free Domain Adaptation},
+  author={Li, Xinhao and Li, Jingjing and Zhu, Lei and Wang, Guoqing and Huang, Zi},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={3330--3339},
+  year={2021}
+}
+```
+
