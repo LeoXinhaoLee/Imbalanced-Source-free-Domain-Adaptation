@@ -1,4 +1,10 @@
 # Imbalanced Source-free Domain Adaptation
+### Framework
+
+------
+
+![ISFDA Framework](./figs/ISFDA.png)
+
 ### Prerequisites
 
 ------
